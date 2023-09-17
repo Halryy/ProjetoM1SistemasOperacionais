@@ -2,7 +2,6 @@
 #include <iostream>
 #include <iomanip>
 #include <thread>
-#include <algorithm>
 using namespace std;
 const int tamanhoY = 3, tamanhoX = 3;
 int matrizA[tamanhoX][tamanhoY], matrizB[tamanhoX][tamanhoY], matrizAB[tamanhoX][tamanhoY];

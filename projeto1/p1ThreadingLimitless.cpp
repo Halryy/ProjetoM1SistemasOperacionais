@@ -3,7 +3,6 @@
 #include <iostream>
 #include <iomanip>
 #include <thread>
-#include <algorithm>
 using namespace std;
 const long long unsigned int tamanhoY = 12000, tamanhoX = 12000;
 int matrizA[tamanhoX][tamanhoY], matrizB[tamanhoX][tamanhoY], matrizAB[tamanhoX][tamanhoY];
