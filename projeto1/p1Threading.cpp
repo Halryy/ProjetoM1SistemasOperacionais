@@ -57,5 +57,6 @@ int main() {
     t2.join();
     t3.join();
     // system("clear");
+    //Comando para rodar no terminal: c++ p1Threading.cpp -o a.out && time ./a.out
     return 0;
 }

@@ -51,7 +51,7 @@ int main() {
     calculaMatricial();
     cout << "\nMultiplicação posicional:\n";
     calculaPosicional();
-    //// c++ p1.cpp -o a.out && time ./a.out
-    system("clear");
+    //Comando para rodar no terminal: c++ p1.cpp -o a.out && time ./a.out
+    // system("clear");
     return 0;
 }

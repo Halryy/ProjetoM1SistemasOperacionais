@@ -35,7 +35,7 @@ void calculaMatrizes() {
 int main() {
     criaMatrizes();
     calculaMatrizes();
-    // c++ p1Limitless.cpp -o a.out && time ./a.out
+    //Comando para rodar no terminal: c++ p1Limitless.cpp -o a.out && time ./a.out
     // system("clear");
     return 0;
 }
