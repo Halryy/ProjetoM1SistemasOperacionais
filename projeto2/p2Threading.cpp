@@ -43,6 +43,6 @@ int main()
     t2.join();
     t3.join();
     t4.join();
-    // Comando para rodar no terminal: c++ p2.cpp -o a.out && time ./a.out
+    // Comando para rodar no terminal: c++ p2Threading.cpp -o a.out && time ./a.out
     return 0;
 }
